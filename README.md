@@ -1,6 +1,6 @@
 Encore plus d'infos sur http://gitimmersion.com/index.html 
 
-Les différente étapes et commandes de la création d'un commit en ligne de commande:
+Les différentes étapes et commandes de la création d'un commit en ligne de commande:
 
 1- git init --> Pour initialiser le répertoire dans lequel doit être effectué le commit. Et ainsi initialiser le dépôt vide.
 
